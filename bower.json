@@ -1,0 +1,40 @@
+{
+
+    "name": "fe-banner-images",
+    "authors": [
+   
+        "Cory Mosey"
+
+    ],
+
+    "description": "Pull images through folder based on page name.",
+    "main": "banner.php",
+    "repository": {
+
+        "type" : "git",
+        "url" : "https://github.com/propcom/fe-banner-images.git"
+
+    },
+
+    "keywords": [
+
+        "Banner",
+        "images",
+        "php",
+        "Propeller",
+        "propcomm",
+        "propeller",
+        "propcom"
+
+    ],
+
+    "license": "Public",
+    "homepage": "https://github.com/propcom/fe-banner-images.git",
+
+    "install" : {
+
+        "banner.php" : "fuel/app/views/inc"
+
+    }
+
+}
