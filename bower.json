@@ -31,6 +31,11 @@
     "license": "Public",
     "homepage": "https://github.com/propcom/fe-banner-images.git",
 
+    "ignore" : [
+
+    	"/httpdocs/"
+    ],
+
     "install" : {
 
         "banner.php" : "fuel/app/views/inc"
